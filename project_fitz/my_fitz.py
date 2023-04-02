@@ -32,7 +32,7 @@ class ReaderPDF:
 
     def check_structure(self, dict_with_data: dict) -> bool:
         """
-                It validates the structure of pdf document occording to the sample
+                It validates the structure of pdf document according to the sample
                 and returns the True or False
                 :param dict_with_data: the schema to validate against
                 :return: bool
